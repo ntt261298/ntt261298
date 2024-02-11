@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=ntt261298)](https://github.com/ntt261298/github-readme-stats)
 
 <!--
 **ntt261298/ntt261298** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
